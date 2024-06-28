@@ -1,4 +1,4 @@
-// src/components/AgricultureTables.js
+
 import React from 'react';
 import { Table, Container, Title, Divider } from '@mantine/core';
 import { processData } from '../utils/dataProcessing';
